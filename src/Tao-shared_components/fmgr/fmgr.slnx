@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="fmgr/fmgr.vcxproj" Id="d2db87d3-b06c-4e82-88b8-5654ba092085" />
+</Solution>

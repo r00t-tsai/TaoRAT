@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="notifications.exe/notifications.exe.vcxproj" Id="5672b24b-9b51-4ae8-b63a-93d128b9e16d" />
+</Solution>
